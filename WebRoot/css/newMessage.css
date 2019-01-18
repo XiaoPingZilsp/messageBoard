@@ -1,0 +1,25 @@
+@charset "utf-8";
+.table{
+		
+		width:1024px;
+		background:#FFC353;
+		text-align:center;		
+		border:0px;
+		table-layout: fixed;
+		
+			}
+th{color:#FFF;}
+.tr01{background:#FFA500;height:40px;}
+.tr02{background:#FFFFFF;height:30px;}	
+.tr03{background:#FFEDDB;height:30px;}	
+td{	
+	overflow: hidden; 
+	white-space: nowrap; 
+	text-overflow: ellipsis;	
+}
+a{ text-decoration:none;
+	color :#000000;	  
+   	} 
+a:hover{ text-decoration:underline;
+		font-weight:bold;
+	 } 

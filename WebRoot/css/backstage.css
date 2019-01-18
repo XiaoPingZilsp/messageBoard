@@ -1,0 +1,49 @@
+@charset "utf-8";
+.content{
+		width: 1800px;
+		height:600px;
+		margin: 0px auto;
+		margin-left:40px;	
+		}
+
+	.catalogue{
+		width:69%;
+		height:600px;
+		float:left;
+		border:1px solid #DEDDDD;
+		
+		
+		}
+	.left{
+		width:15%;
+		height:597px;
+		display:block;
+		float:left;
+		background:#F9B26A;
+		margin:0px auto;
+		text-align:center;
+		} 
+	.center{
+		width:58%;
+		float:left;
+		} 
+	ul li{		
+		list-style-type:none;
+		font-family: "微软雅黑";
+		font-size:18px;
+		text-align:center;
+		line-height:50px;
+		margin-left:-10px;
+		
+		}
+
+	.tabshow{
+		display:block;
+		}
+	.tabhide{display:none;}
+	#tab01,#tab02,#tab03,#tab04,#tab05{
+		width:176px;
+		margin-left:-30px;
+		
+		}
+
